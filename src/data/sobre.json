@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o EDITORAUSINADELETRAS"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "Na Editora Usina de Letras, nossa missão é proporcionar acesso a livros que inspirem e educam. Acreditamos que cada leitura é uma oportunidade de aprendizagem e transformação."
+  },
+  "content": "Fundada por apaixonados por literatura, a Usina de Letras surgiu com o propósito de democratizar o acesso à literatura e aos saberes. Trabalhamos lado a lado com autores e educadores para criar materiais que fazem a diferença.",
+  "mission": "Promover a leitura como ferramenta de mudança e oferecer conteúdos que contribuam para a formação de cidadãos críticos e conscientes.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "1.200+",
+      "label": "Artigos"
+    },
+    {
+      "value": "300k+",
+      "label": "Alunos"
+    },
+    {
+      "value": "25",
+      "label": "Professores"
+    }
+  ],
+  "team": []
+}

@@ -1,0 +1,53 @@
+{
+  "name": "EDITORAUSINADELETRAS",
+  "slug": "editorausinadeletras.com.br",
+  "description": "Site de uma editora",
+  "url": "https://editorausinadeletras.com.br",
+  "niche": "Educação",
+  "keywords": "Site de uma editora",
+  "email": "contato@editorausinadeletras.com.br",
+  "palette": "teal",
+  "colors": {
+    "primary": "#0d9488",
+    "accent": "#0f766e",
+    "dark": "#042f2e"
+  },
+  "headerContrast": "light",
+  "font": "outfit",
+  "fontFamily": "'Outfit', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-D",
+    "hero": "Hero-C",
+    "features": "Features-B",
+    "about": "About-E",
+    "posts": "Posts-I",
+    "footer": "Footer-D",
+    "sobre": "Sobre-C",
+    "contato": "Contato-E"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

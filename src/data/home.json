@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "EDITORAUSINADELETRAS — A Arte de Ler e Escrever",
+    "description": "Transforme sua experiência de aprendizado com nossos livros e materiais educacionais."
+  },
+  "hero": {
+    "title": "A Arte de Ler e Escrever",
+    "subtitle": "Transforme sua experiência de aprendizado com nossos livros e materiais educacionais.",
+    "btnText": "Explore Nossas Obras",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Por que Escolher a Editora Usina de Letras?",
+    "items": [
+      {
+        "icon": "📚",
+        "title": "Variedade de Títulos",
+        "desc": "Oferecemos uma ampla gama de gêneros, desde literatura infantil até acadêmica, para atender a todos os públicos."
+      },
+      {
+        "icon": "🚀",
+        "title": "Autoras e Autores Reconhecidos",
+        "desc": "Colaboramos com escritores consagrados e novas vozes que trazem frescor e inovação ao cenário literário."
+      },
+      {
+        "icon": "🌱",
+        "title": "Compromisso com a Educação",
+        "desc": "Nossos livros são cuidadosamente selecionados para promover a educação de qualidade e a formação de leitores críticos."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre a Editora Usina de Letras",
+    "desc": "Na Editora Usina de Letras, nossa missão é proporcionar acesso a livros que inspirem e educam. Acreditamos que cada leitura é uma oportunidade de aprendizagem e transformação.",
+    "stats": [
+      {
+        "value": "100+",
+        "label": "Títulos Publicados"
+      },
+      {
+        "value": "5000+",
+        "label": "Livros Vendidos"
+      },
+      {
+        "value": "50+",
+        "label": "Autores Parceiros"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}
